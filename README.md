@@ -1,16 +1,37 @@
-## Hi there 👋
+![Banner](banner.png)
 
-<!--
-**xMN-28/xMN-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mohit Naidu 👋
 
-Here are some ideas to get you started:
+🎓 **2nd-year student** | 🤖 **Aspiring AI/ML Engineer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like building things to understand *how* and *why* they work. I focus on strong fundamentals, clean logic, and hands-on learning over shortcuts.
+
+---
+
+### ⚡ What I’m Into
+
+* Machine Learning & AI
+* Data Structures & Algorithms
+* Learning by building, breaking, and rebuilding
+
+---
+
+### 🛠️ Tech Stack
+
+* Python
+* Machine Learning (Tensorflow & scikit-learn)
+* Data Structures & Algorithms
+* HTML, CSS, JavaScript (basics)
+* Web apps & APIs
+
+---
+
+### 🎯 Currently
+
+* Strengthening ML fundamentals
+* Practicing DSA consistently
+* Building projects
+
+---
+
+🚀 *Learning slow, building steady, aiming high.*
