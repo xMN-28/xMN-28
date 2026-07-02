@@ -1,0 +1,28 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="r1" cx="50%" cy="50%" r="70%"><stop offset="0" stop-color="#0EA5E9" stop-opacity=".55"/><stop offset=".55" stop-color="#111827" stop-opacity=".65"/><stop offset="1" stop-color="#020617"/></radialGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0"><stop stop-color="#00E5FF"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#00E5FF"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .big{font:900 76px 'Segoe UI',Ubuntu,Arial,sans-serif;fill:#F8FAFC;letter-spacing:4px}
+      .sub{font:700 24px 'Segoe UI',Ubuntu,Arial,sans-serif;fill:#BAE6FD;letter-spacing:7px}
+      .mini{font:700 16px Consolas,'Courier New',monospace;fill:#94A3B8;letter-spacing:2px}
+      .grid{stroke:#38BDF8;stroke-opacity:.13}.dash{stroke-dasharray:18 22;animation:dash 12s linear infinite}.scan{animation:scan 4.5s linear infinite}.pulse{animation:pulse 2.4s ease-in-out infinite}.float{animation:float 6s ease-in-out infinite}@keyframes dash{to{stroke-dashoffset:-200}}@keyframes scan{0%{transform:translateX(-260px);opacity:0}15%{opacity:.65}85%{opacity:.24}100%{transform:translateX(1260px);opacity:0}}@keyframes pulse{0%,100%{opacity:.28}50%{opacity:1}}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+    </style>
+  </defs>
+  <rect width="1200" height="360" rx="34" fill="url(#r1)"/>
+  <g class="grid"><path d="M0 0V360"/><path d="M60 0V360"/><path d="M120 0V360"/><path d="M180 0V360"/><path d="M240 0V360"/><path d="M300 0V360"/><path d="M360 0V360"/><path d="M420 0V360"/><path d="M480 0V360"/><path d="M540 0V360"/><path d="M600 0V360"/><path d="M660 0V360"/><path d="M720 0V360"/><path d="M780 0V360"/><path d="M840 0V360"/><path d="M900 0V360"/><path d="M960 0V360"/><path d="M1020 0V360"/><path d="M1080 0V360"/><path d="M1140 0V360"/><path d="M1200 0V360"/><path d="M0 0H1200"/><path d="M0 45H1200"/><path d="M0 90H1200"/><path d="M0 135H1200"/><path d="M0 180H1200"/><path d="M0 225H1200"/><path d="M0 270H1200"/><path d="M0 315H1200"/><path d="M0 360H1200"/></g>
+  <path class="dash" d="M36 46H1164V314H36V46Z" stroke="url(#line)" stroke-width="3" rx="22"/>
+  <rect class="scan" x="0" y="0" width="210" height="360" fill="#00E5FF" opacity=".12"/>
+  <g class="float" filter="url(#glow)">
+    <text x="72" y="132" class="mini">BOOTING PROFILE INTERFACE...</text>
+    <text x="72" y="207" class="big">MOHIT NAIDU</text>
+    <text x="76" y="256" class="sub">AI SYSTEMS LAB</text>
+  </g>
+  <g class="pulse">
+    <circle cx="1080" cy="116" r="54" stroke="#00E5FF" stroke-width="3" opacity=".7"/>
+    <circle cx="1080" cy="116" r="24" stroke="#8B5CF6" stroke-width="3" opacity=".8"/>
+    <path d="M1052 116H1108M1080 88V144" stroke="#BAE6FD" stroke-width="3"/>
+  </g>
+  <text x="76" y="302" class="mini">RAG // COMPUTER VISION // REINFORCEMENT LEARNING // GENAI TOOLS</text>
+</svg>
