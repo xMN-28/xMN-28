@@ -1,196 +1,140 @@
-<div align="center">
+<!--
+  GitHub Profile README — Calm SaaS / Dark Portfolio Theme
+  Replace ./assets/header.gif and ./assets/footer.gif with your own animated wave GIFs.
+  Keep the files inside your profile repo: xMN-28/xMN-28/assets/
+-->
 
-<img src="./assets/hud/header.svg" width="100%" alt="Mohit Naidu - AI Systems Lab" />
+<p align="center">
+  <img src="./assets/header.gif" width="100%" alt="Abstract animated wave header" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2600&pause=650&color=00E5FF&center=true&vCenter=true&width=1000&lines=Building+AI+systems+that+actually+do+things;GenAI+%2B+RAG+%2B+Computer+Vision+%2B+Reinforcement+Learning;Learning+slow.+Building+steady.+Aiming+high." alt="Typing SVG" />
+<h1 align="center">Mohit Naidu</h1>
+
+<p align="center">
+  <b>Computer Engineering Student · AI/ML Builder</b>
+  <br />
+  GenAI · RAG · Computer Vision · Reinforcement Learning · DSA
+</p>
+
+<p align="center">
+  <i>Building useful AI systems, not just demos.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/xMN-28?tab=repositories"><img src="https://img.shields.io/badge/Projects-AI%20Systems-111827?style=flat-square&labelColor=1f2937&color=6366f1" alt="Projects" /></a>
+  <img src="https://img.shields.io/badge/Focus-GenAI%20%7C%20RAG%20%7C%20CV%20%7C%20RL-111827?style=flat-square&labelColor=1f2937&color=8b5cf6" alt="Focus" />
+  <img src="https://img.shields.io/badge/Mode-Learn%20%E2%86%92%20Build%20%E2%86%92%20Improve-111827?style=flat-square&labelColor=1f2937&color=0ea5e9" alt="Mode" />
+</p>
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=xMN-28&style=for-the-badge&color=0ea5e9&label=PROFILE+VISITS" alt="profile visits" />
-<img src="https://img.shields.io/badge/STATUS-BUILDING-00E5FF?style=for-the-badge&labelColor=020617" alt="status" />
-<img src="https://img.shields.io/badge/FOCUS-AI_SYSTEMS-8B5CF6?style=for-the-badge&labelColor=020617" alt="focus" />
+## `$ whoami`
 
-</div>
+I’m a Computer Engineering student from India building applied AI/ML projects across **GenAI**, **RAG**, **computer vision**, and **reinforcement learning**.
 
-<img src="./assets/hud/divider.svg" width="100%" alt="divider" />
+I like projects where the AI has a clear job: an analyst, retriever, inspector, evaluator, or game agent. My focus is on understanding the fundamentals, building working systems, and improving them until they feel portfolio-grade.
 
 ```txt
-┌─ MOHIT NAIDU / AI SYSTEMS LAB ───────────────────────────────────────────────┐
-│ Role       : Computer Engineering student building applied AI systems         │
-│ Focus      : GenAI • RAG • Computer Vision • Reinforcement Learning • DSA     │
-│ Build Rule : Learn the fundamentals → break things → debug → rebuild better   │
-│ Current    : Portfolio-grade ML projects, cleaner code, stronger systems      │
-└───────────────────────────────────────────────────────────────────────────────┘
+Role       : Computer Engineering Student
+Focus      : AI/ML systems, GenAI tools, RAG apps, CV pipelines, RL agents
+Build Rule : Learn the concept -> build the system -> break it -> rebuild cleaner
+Current    : Stronger fundamentals, better projects, cleaner engineering
 ```
 
-## PROJECTS
+---
 
-<table>
-<tr>
-<td width="50%">
-<img src="./assets/cards/datapilot.svg" width="100%" alt="DataPilot AI animated card" />
-</td>
-<td width="50%">
-<img src="./assets/cards/vidcontext.svg" width="100%" alt="VidContext RAG animated card" />
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="./assets/cards/siteguard.svg" width="100%" alt="SiteGuard AI animated card" />
-</td>
-<td width="50%">
-<img src="./assets/cards/devicelens.svg" width="100%" alt="DeviceLens animated card" />
-</td>
-</tr>
-<tr>
-<td width="50%">
-<img src="./assets/cards/hirelens.svg" width="100%" alt="HireLens animated card" />
-</td>
-<td width="50%">
-<img src="./assets/cards/gameai.svg" width="100%" alt="Game AI Lab animated card" />
-</td>
-</tr>
-</table>
+## `$ ls featured-projects/`
 
-> Replace the card images with links later by wrapping each `<img>` in an `<a href="YOUR_REPO_LINK">...</a>` tag.
-
-<img src="./assets/hud/divider.svg" width="100%" alt="divider" />
-
-## PROJECT LOGS
-
-<details open>
-<summary><b>OPEN MODULE: DataPilot AI</b></summary>
-
-```txt
-TYPE      : GenAI data analyst / CSV intelligence workspace
-STACK     : FastAPI • React • TypeScript • pandas • NumPy • SciPy • sklearn • OpenAI
-SYSTEMS   : schema profiling, data-quality checks, adaptive dashboards, analyst chat
-OUTPUT    : exportable analysis artifacts, prediction studio, AI-powered interpretation
-RULE      : LLM plans and explains through safe backend tools instead of random code execution
-```
-
-DataPilot AI turns raw CSV files into an analytics workspace with profiling, dashboards, grounded chat, prediction workflows, and exportable analysis.
-
-</details>
+| Project | Focus | What it does |
+|---|---|---|
+| **DataPilot AI** | GenAI + Data Analytics | Turns CSV files into schema profiles, dashboards, analyst chat, insights, exports, and prediction workflows. |
+| **VidContext RAG** | RAG System | Lets users ask questions over YouTube transcripts with timestamp-grounded context and source inspection. |
+| **SiteGuard AI** | Computer Vision | Detects construction-site PPE compliance, associates workers with gear, and generates safety reports. |
+| **DeviceLens** | Agentic Vision | Inspects phone condition from images using deterministic scoring, visual grounding, and optional GPT explanations. |
+| **HireLens** | GenAI + Resume Analysis | Compares resumes against multiple job descriptions and returns fit scores, evidence maps, rewrites, and roadmaps. |
+| **Game AI Lab** | RL + Search | Reinforcement-learning and search-based agents for 2048, Bluff, UNO, Barricade, Snake, Connect 4, and walking AI. |
 
 <details>
-<summary><b>OPEN MODULE: VidContext RAG</b></summary>
+<summary><b>Open project notes</b></summary>
 
-```txt
-TYPE      : Full-stack retrieval-augmented generation app
-STACK     : Next.js • FastAPI • ChromaDB • embeddings • transcript chunking
-SYSTEMS   : timestamp chunks, retrieval context, grounded answers, source inspection
-OUTPUT    : ask questions over YouTube videos with timestamp-backed citations
-```
+### DataPilot AI
+An autonomous CSV analytics workspace with data-quality checks, adaptive dashboards, grounded analyst chat, exportable artifacts, and a prediction studio.
 
-VidContext RAG lets users index video transcripts and ask questions with retrieved context and source timestamps.
+### VidContext RAG
+A full-stack YouTube RAG app that chunks transcripts with timestamps, stores embeddings, retrieves relevant context, and answers with grounded citations.
 
-</details>
+### SiteGuard AI
+A construction-site safety system built around YOLO detection, PPE association, helmet/vest compliance, output images, and inspection reports.
 
-<details>
-<summary><b>OPEN MODULE: SiteGuard AI</b></summary>
+### DeviceLens
+A phone-condition inspection app that validates device images, grounds visible damage, applies scoring rules, and explains condition reports.
 
-```txt
-TYPE      : Computer vision safety inspection system
-STACK     : Ultralytics YOLO • FastAPI • React/Vite • detection reports
-SYSTEMS   : worker detection, PPE association, helmet/vest compliance, output images
-OUTPUT    : construction-site safety reports from uploaded images
-```
+### HireLens
+A resume-to-job matching app that extracts resume text, parses job descriptions, scores fit, maps evidence, and creates learning/project roadmaps.
 
-SiteGuard AI detects workers, hardhats, safety vests, and missing-PPE violations, then generates compliance reports.
+### Game AI Lab
+A collection of RL/search experiments covering DQN, PPO, MCTS, legal-action masking, self-play, replay buffers, evaluation tools, and playable interfaces.
 
 </details>
 
-<details>
-<summary><b>OPEN MODULE: DeviceLens</b></summary>
+---
 
-```txt
-TYPE      : Agentic phone-condition inspection app
-STACK     : Next.js • FastAPI • image validation • detection grounding • GPT explanations
-SYSTEMS   : visible damage checks, deterministic condition scoring, local policy rubrics
-OUTPUT    : user-friendly phone inspection reports
+## `$ cat tech_stack.json`
+
+```json
+{
+  "languages": ["Python", "JavaScript", "TypeScript", "HTML", "CSS"],
+  "ai_ml": ["PyTorch", "TensorFlow", "scikit-learn", "OpenCV", "Ultralytics YOLO"],
+  "genai_rag": ["OpenAI API", "Embeddings", "ChromaDB", "RAG pipelines", "Structured outputs"],
+  "backend": ["FastAPI", "Flask", "Node.js", "Express"],
+  "frontend": ["React", "Next.js", "Vite", "Tailwind CSS"],
+  "data": ["pandas", "NumPy", "SciPy", "SQLite", "JSON stores"],
+  "workflow": ["Git", "GitHub", "local-first builds", "API-driven apps"]
+}
 ```
 
-DeviceLens analyzes phone images for damage and condition signals, then explains the final inspection report clearly.
+---
 
-</details>
-
-<details>
-<summary><b>OPEN MODULE: HireLens</b></summary>
+## `$ tree interests/`
 
 ```txt
-TYPE      : Resume-to-job matching and roadmap system
-STACK     : React/Vite • FastAPI • PyMuPDF • OpenAI structured outputs • rule-based scoring
-SYSTEMS   : multi-JD comparison, ATS checks, evidence maps, skill gaps, bullet rewrites
-OUTPUT    : fit badges, roadmap suggestions, resume improvement feedback
+AI/ML
+├── GenAI tools that solve real workflow problems
+├── RAG systems with grounded retrieval and citations
+├── Computer vision apps with practical inspection use cases
+├── Reinforcement-learning agents for games and simulations
+└── Clean Python systems with strong logic and measurable outputs
 ```
 
-HireLens compares one resume against multiple job descriptions and turns the result into evidence-backed feedback and roadmaps.
+---
 
-</details>
+## `$ cat current_status.md`
 
-<details>
-<summary><b>OPEN MODULE: Game AI Lab</b></summary>
+- Strengthening ML and deep-learning fundamentals
+- Practicing DSA with Python
+- Building portfolio-grade AI/ML systems
+- Improving project presentation, READMEs, and demos
+- Learning by building, breaking, debugging, and rebuilding
 
-```txt
-TYPE      : Reinforcement learning and game-agent experiments
-STACK     : PyTorch • TensorFlow/Keras • Gymnasium • Pygame • MCTS • PPO • DQN
-SYSTEMS   : legal-action masking, self-play, replay buffers, checkpoints, evaluation tools
-OUTPUT    : agents for 2048, Barricade, Block Blast, Bluff, UNO, Snake, Connect 4
-```
+---
 
-A collection of game-AI experiments focused on training loops, measurable improvement, search, policy learning, and evaluation.
+## `$ github --stats`
 
-</details>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xMN-28&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=8b5cf6" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xMN-28&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e" alt="Top languages" />
+</p>
 
-<img src="./assets/hud/divider.svg" width="100%" alt="divider" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xMN-28&theme=github-dark&hide_border=true&bg_color=0d1117&color=8b949e&line=8b5cf6&point=c9d1d9" alt="GitHub activity graph" />
+</p>
 
-## TECH LOADOUT
+---
 
-<div align="center">
+<p align="center">
+  <img src="./assets/footer.gif" width="100%" alt="Abstract animated wave footer" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,react,nextjs,ts,js,html,css,tailwind,sqlite,git,github,vscode" alt="tech stack" />
-
-</div>
-
-```txt
-PRIMARY      : Python, ML/DL, backend APIs, model training, data pipelines
-AI SYSTEMS   : RAG, embeddings, computer vision, GenAI tools, RL/game agents
-FRONTEND     : React, Next.js, Vite, Tailwind, dashboard-style UIs
-BACKEND      : FastAPI, Flask, local-first APIs, JSON/SQLite/vector-store workflows
-HABIT        : Build locally first, make it work, then make it cleaner
-```
-
-## CURRENT QUESTS
-
-```txt
-[ACTIVE] Strengthen ML and deep-learning fundamentals
-[ACTIVE] Build portfolio-grade AI projects with real workflows
-[ACTIVE] Improve DSA and problem-solving with Python
-[ACTIVE] Turn rough prototypes into clean, explainable systems
-```
-
-<img src="./assets/hud/divider.svg" width="100%" alt="divider" />
-
-## SIGNAL FEED
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=xMN-28&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xMN-28&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xMN-28&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph" />
-
-</div>
-
-<img src="./assets/hud/divider.svg" width="100%" alt="divider" />
-
-<div align="center">
-
-```txt
-Learning slow. Building steady. Aiming high.
-```
-
-</div>
+<p align="center">
+  <i>Learning slow, building steady, aiming high.</i>
+</p>
